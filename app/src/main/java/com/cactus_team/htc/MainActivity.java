@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity
         }
         mDemoSlider.setPresetTransformer(SliderLayout.Transformer.Default);
         mDemoSlider.setPresetIndicator(SliderLayout.PresetIndicators.Center_Bottom);
-        mDemoSlider.setDuration(3000);
+        mDemoSlider.setDuration(1000);
         mDemoSlider.setIndicatorVisibility(PagerIndicator.IndicatorVisibility.Invisible);
 
 
